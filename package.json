@@ -1,0 +1,37 @@
+{
+  "name": "hawkers",
+  "version": "1.0.0",
+  "description": "Hawkers test interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegonjin/hawkers.git"
+  },
+  "keywords": [
+    "hawkers",
+    "interview"
+  ],
+  "author": "Diego Asensio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegonjin/hawkers/issues"
+  },
+  "homepage": "https://github.com/diegonjin/hawkers#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-json-srv": "^1.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "json-server": "^0.9.6",
+    "wiredep": "^4.0.0"
+  }
+}
